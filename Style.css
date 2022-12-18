@@ -1,0 +1,44 @@
+body{
+    margin: 0px 0px;
+    background-image: url('./Images/bg4.jpg');
+    background-size: cover;
+}
+.overlay{
+    margin: 0px 0px;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    
+}
+.Main_heading{
+    padding-top: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#Head1{
+    padding-top: 100px;
+}
+input{
+    border-color: white;
+    border-radius: 5px;
+    height: 60px;
+    width: 180px;
+    margin-top: 65px;
+    text-align: center;
+    font-size: 40px;
+}
+.Input_Countdown{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Input_text{
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 30px;
+    justify-content: center;
+    padding-top: 10px
+}
